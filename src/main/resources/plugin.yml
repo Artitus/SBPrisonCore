@@ -1,0 +1,14 @@
+name: SBPrisonCore
+version: 1.0.0
+author: Mas21
+main: us.artit.sbprisoncore.SBPrisonCore
+commands:
+  dust:
+    description: Get admin items for crafting Knowledge.
+  staff:
+    description: List the online staff.
+  list:
+    description: List all players online.
+  teleport:
+    description: Tp yourself to another player.
+    aliases: [tp, teleport]

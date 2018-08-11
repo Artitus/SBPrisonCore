@@ -1,0 +1,5 @@
+ChatFormats:
+    owner: '&4&lOWNER %s &r'
+
+TabListFormats:
+    owner: '&4Owner &7'
